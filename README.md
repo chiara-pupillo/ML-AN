@@ -1,2 +1,3 @@
 # ML-AN
-Prediction of hospital treatment success for patients with anorexia nervosa by delta BMI. A binary classification was performed.
+This study investigated the use of supervised machine learning to predict short-term treatment outcomes in inpatients with anorexia nervosa (AN). A binary classifier was developed to distinguish patients with stable or increased BMI at discharge from those whose BMI decreased, using psychological and physical features collected at admission. The best-performing model (Random Forest) achieved ~77 % accuracy and highlighted key predictors related to body image uneasiness, personal alienation, and interpersonal problems. The findings suggest that explainable machine learning can help identify factors linked to treatment response, potentially guiding more targeted interventions.
+For more information, read the reference scientific article: https://link.springer.com/article/10.1186/s40337-025-01265-3
